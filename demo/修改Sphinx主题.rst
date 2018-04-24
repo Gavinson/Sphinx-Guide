@@ -32,7 +32,7 @@
 
 **▲注：**
 
-1. 更多的Sphinx内置主题样式可见：
+* 更多的Sphinx内置主题样式可见：
 http://www.sphinx-doc.org/en/master/theming.html#using-a-theme。
 
-2. 还可以安装其他主题，或者按照需要制作自己的主题。
+* 还可以安装其他主题，或者按照需要制作自己的主题。
